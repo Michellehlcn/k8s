@@ -1,1 +1,8 @@
 /venv/*
+gcp/CR/google-cloud-sdk/*
+gcp/CR/.terraform/*
+gcp/CR/run.sh
+gcp/CR/goo*
+gcp/CR/terraform*
+gcp/CR/.terraform*
+gcp/CR/src/__pycache__/*
